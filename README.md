@@ -29,3 +29,5 @@ Dashboard Overview: Shows KPIs, course-wise revenue, monthly enrollments, age di
 Insights: Identifies high-revenue courses, peak enrollment months, and key student age groups for better planning
 
 6. Screenshot/ Demo
+Dashboard: https://github.com/sugirtha-ge/Student-Report/blob/main/Dashboard_Student%20Report.png
+
